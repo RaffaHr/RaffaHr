@@ -5,8 +5,8 @@
 
 <div>
 	<a href="https://github.com/RaffaHr/">
-	<img height="250em" src="https://github-readme-stats.vercel.app/api?username=RaffaHr&show_icons=true&theme=radical">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaHr&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaffaHr&show_icons=true&theme=radical">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaHr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
 </div>
 <div>
 	<a href="https://github.com/RaffaHr/" target="_blank" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
