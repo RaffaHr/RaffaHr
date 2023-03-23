@@ -1,8 +1,4 @@
 ### Hi there 👋
-🔭 I’m currently working on Front-End
-<br>
-🌱 I’m currently learning HTML, CSS e JS
-
 <div>
 	<a href="https://github.com/RaffaHr/" target="_blank" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 	<a href="#" target="_blank" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">	
